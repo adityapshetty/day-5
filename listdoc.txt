@@ -1,0 +1,14 @@
+one
+python
+code
+note
+rupees
+dollar
+list
+git
+stack
+cat
+dog
+walk
+computer
+glasses
